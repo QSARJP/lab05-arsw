@@ -68,3 +68,7 @@ modules.xml
 .DS_Store
 .project
 .settings/
+
+.classpath
+.vscode/
+bin/
